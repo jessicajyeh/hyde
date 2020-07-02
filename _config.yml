@@ -10,7 +10,7 @@ title:            Jessica Yeh
 tagline:          'about me'
 description:      ''
 url:              https://jessicajyeh.github.io/hyde/
-baseurl:          /
+baseurl:          /hyde/
 
 author:
   name:           'Mark Otto'

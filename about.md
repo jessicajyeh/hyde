@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: <html> &#128075; &nbsp;</html>  About Me
 ---
 
 <p class="message">
